@@ -1,1 +1,28 @@
-meu mural e dedicado a voce que esta lendo a
+PLANO DE ESTAGIO
+
+                                                            Programa Semanal (de 15 a 19 de agosto):
+Ord	Descrição	Autor	Situação	Observação Fotso	Observação do Eng. Adilson
+1	1.1	Criar um Fomurio de cadastro de alunos
+1.2	Inserir combos Independentes
+1.3	Carregar a foto do aluno
+1.4	Listar dados de alunos
+1.5	Combos Relacionados
+1.6	Editar dados do aluno
+1.7	TPC(Eng)     Modelar e Implementar um sistema de gestão de refetorio.	Rede Luís	1.1	Resolvido
+1.2	Resolvido
+1.4 Resolvido
+		
+2	1.8	Criar um Formurio de cadastro de alunos
+1.9	Inserir combos Independentes
+1.10	Carregar a foto do aluno
+1.11	Listar dados de alunos
+1.12	Combos Relacionados
+1.13	Editar dados do aluno
+1.14	TPC(Eng.Adilson)     Modelar e Implementar um sistema de gestão de refetorio.	Xadreque Zandamela	1.8resolvido
+1.9resolvido
+1.10resolvido
+1.11resolvido
+1.12resolvido
+1.13 resolvido
+1.14Resolvido		
+
